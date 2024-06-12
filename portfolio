@@ -1,61 +1,55 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-
 <head>
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exemplo de Google Fonts</title>
+    <title>Meu Site</title>
     <link rel="stylesheet" href="styles.css">
-
-    <style>
-        img {
-            width: 15%
-        }
-
-        ;
-    </style>
+    <link rel="stylesheet" href="<https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap>">
 </head>
-
-<h1 style="color: rgb(0, 0, 0); text-align: center;">bem-vindo ao meu site!</h1>
-<p style="font-size: 16px; color: rgb(0, 0, 0);"></p>
-
-<a href="home.html">home</a>,
- <a href="Sobre.html">Sobre </a>,
- <a href="projetos.html">Projetos</a>,
- <a href="Contato.html">Contato</a>
-
-
 <body>
-
-    
-
-
+    <header>
+        <h1>Meu portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="./home.html">Home</a></li>
+                <li><a href="./sobre.html">Sobre</a></li>
+                <li><a href="./Contatos.html">Contato</a></li>
+               
+            </ul>
+        </nav>
+    </header>
+   <ul>
+    <li><a href="./sobre.html">Minha história</a></li>
+    <li><a href="./projetos.html">Projetos</a></li>
+    <li><a href="./Contatos.html">Contatos</a></li>
+   </ul>
     <main>
-        <hr>
-        <article id="Inicio">
-            <h2>Inicio</h2>
-            <h3><b>Nome:Jorge cardoso de jesus Idade:15</b></h3>
-        </article>
-        <hr>
-        <section id="sobre">
-            <h2>Sobre mim</h2>
-            <p><b>Me chamo Jorge, tenho 15 anos, gosto de jogar Fortnite, Rocket League, Dota, Euro Truck e Descenders.
-                    Meu esporte favorito é futebol. Nasci no dia 10/12/2008 em Esteio e cresci minha vida toda em
-                    Sapucaia do Sul. Estudei na escola Rosane Amaral Dias do 1° ano até o 9°. Hoje estudo na escola
-                    Cecília Meireles e faço curso técnico de TI no colégio São Lucas.</b></p>
+        <section id="home">
+            <h2>Bem-vindo à Home</h2>
+              <p>Este site falará um pouco de mim.</p>
         </section>
-        <hr>
-        <article id="contatos">
-            <h2>Contatos</h2>
-            <a href="https://www.instagram.com/j.cardoso_021?utm_source=qr&igsh=MW45cnZpdXJkbGtlYg==d">Instagram</a> <a
-                href="https://github.com/Jorginho021/portifolio/edit/main/portfolio">GitHub</a>
-            <p></p>
 
-            <hr>
-        </article>
+        <section id="sobre">
+            
+        </section>
+
+        <section id="contato">
+        
+        </section>
     </main>
+    <style>    img {width: 15%}
 
-    <h1>Foto</h1>
-    <footer>
-        <img src="./e8e3c7ef-0c7a-4cde-acda-a1a976c66687.jpg" alt="">
+    </style>
+    <aside>
+        <h2>Links Úteis</h2>
+        <ul>
+            <li><a href="https://www.instagram.com/j.cardoso_021?utm_source=qr&igsh=MW45cnZpdXJkbGtlYg==d">instagram</a></li>
+            <li><a href="https://github.com/Jorginho021/MeuPrimeirowebsite.">github</a></li>
+        </ul>
+    </aside>
+
+    <img src="./img/WhatsApp Image 2024-06-07 at 8.18.36 PM.jpeg" alt="">
+    
+</body>
+</html>
