@@ -1,55 +1,31 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Site</title>
+    <title>Portfolio</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="<https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap>">
+
 </head>
 <body>
+
     <header>
         <h1>Meu portfolio</h1>
         <nav>
             <ul>
-                <li><a href="./home.html">Home</a></li>
-                <li><a href="./sobre.html">Sobre</a></li>
-                <li><a href="./Contatos.html">Contato</a></li>
-               
+                <div class="box azul"><a href="./home.html">Inicio</a></div>
+                <div class="box vermelho"><a href="./sobre.html">Sobre</a></div>
+                <div class="box azul grande"><a href="./contatos.html">Contatos</a></div>
+   
+
+
+                <section id="home">
+                    <h2>Bem-vindo à Home</h2>
+                      <p>Este site falará um pouco de mim.</p>
+                </section>
+
+
             </ul>
         </nav>
     </header>
-   <ul>
-    <li><a href="./sobre.html">Minha história</a></li>
-    <li><a href="./projetos.html">Projetos</a></li>
-    <li><a href="./Contatos.html">Contatos</a></li>
-   </ul>
-    <main>
-        <section id="home">
-            <h2>Bem-vindo à Home</h2>
-              <p>Este site falará um pouco de mim.</p>
-        </section>
-https://avatars.githubusercontent.com/u/165197225?v=4
-        <section id="sobre">
-            
-        </section>
-
-        <section id="contato">
-        
-        </section>
-    </main>
-    <style>    img {width: 15%}
-
-    </style>
-    <aside>
-        <h2>Links Úteis</h2>
-        <ul>
-            <li><a href="https://www.instagram.com/j.cardoso_021?utm_source=qr&igsh=MW45cnZpdXJkbGtlYg==d">instagram</a></li>
-            <li><a href="https://github.com/Jorginho021/MeuPrimeirowebsite.">github</a></li>
-        </ul>
-    </aside>
-
-    <img src="./img/WhatsApp Image 2024-06-07 at 8.18.36 PM.jpeg" alt="">
-    
-</body>
-</html>
