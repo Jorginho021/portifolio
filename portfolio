@@ -29,3 +29,270 @@
             </ul>
         </nav>
     </header>
+
+
+
+contatos
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contatos</title>
+    <style>
+        body {
+
+            background-color: #333;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #006e72e1;
+            color: #000000;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #fffffffb;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Contatos</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>contato via WhatsApp</h2>
+
+        
+            <p>+55 51 9788-1983</p>
+           
+        </section>
+
+        <section>
+            <h2>contatos</h2>
+            <p> <h3><li><a href="https://www.instagram.com/j.cardoso_021?utm_source=qr&igsh=MW45cnZpdXJkbGtlYg==d">instagram</a></li></p></h3> 
+            <p> </h4><li><a href="https://github.com/Jorginho021/MeuPrimeirowebsite.">github</a></li></p></h4>
+            
+        </section>
+
+        <section>
+
+sobre
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha História</title>
+    <style>
+        body {
+
+            background-color: #333;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #006e72e1;
+            color: #ffffff;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        h1, h2, p {
+            color: #ffffff;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Minha Jornada</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Infância e Educação</h2>
+            <p>Minha infância foi muito legal. Sempre tive meus tios, avós e primos próximos, então eu sempre tinha com quem brincar. Eu adorava brincar com meus amigos de pega-pega, esconde-esconde, jogar bola e andar de bike.</p>
+            <p>Comecei a estudar em 2014, fazendo o pré, e estou até hoje no 1° ano do ensino médio. Minha meta é terminar a escola e o curso, e começar a trabalhar.</p>
+        </section>
+
+        <section>
+            <h2>Escolas E Cursos</h2>
+            <p>estudei na escola alfredo juliano,rosane amaraldias atualmente estudo no cecilia meireles e na ulbra.</p>
+            <p>faço curso de ti.</p>
+        </section>
+
+        <section>
+            <h2>hobbies e Interesses</h2>
+            <p>Meu hobbie e tocar violão,guitarra e viola gosto muito de instrumentos percussivos.</p>
+            <p>tenho interesse em fazer um curso de iluminação e fazer um faculdade de musica.</p>
+        </section>
+
+        <section>
+            <h2>O Futuro</h2>
+            <p>Pretendo trabalhar com musica mais quero trabalhar na ti por um tempo.</p>
+        </section>
+    </main>
+</body>
+</html>
+
+home
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <style>
+        body {
+
+            background-color: #333;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #006e72e1;
+            color: #333;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        h1, h2, p {
+            color: #ffffff;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>inicio</h1>
+     
+    </header>
+
+    <main>
+        <section>
+            <h2>Este site que estou fazendo é apenas o início da minha jornada na área de TI.</h2>
+
+projetos
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projetos</title>
+    <style>
+        body {
+
+            background-color: #333;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #006e72e1;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        h1, h2, p {
+            color: #f0f0f0;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Projetos</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>fiz um jogo chamado jogo da adivinhação em java,fiz varios codigos em java incluindo, JOptionPane,while e do-while,vetor ,switch-case,if, if-else e metodos.</h2>
+           
+        </section>
+    </main>
+</body>
+</html>
+
+styles.css
+body {
+
+  
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.box {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 90px;
+}
